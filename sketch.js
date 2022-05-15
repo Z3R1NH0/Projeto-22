@@ -46,5 +46,5 @@ function draw() {
   fill("#FFFF");
   textAlign("center");
   textSize(40);
-  text("ARQUEIRO ÉPICO", width / 2, 100);
+  text("Atirador de Elite", width / 2, 100);
 }
